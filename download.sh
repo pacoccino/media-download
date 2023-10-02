@@ -1,1 +1,1 @@
-./youtube-dl --config-location ./confs/$1.conf $2
+yt-dlp --config-location ./confs/$1.conf $2
